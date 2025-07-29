@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Book Manager</string>
+    <string name="book_manager">Book Manager</string>
+    <string name="add_book">Tambah Buku</string>
+    <string name="edit_book">Edit Buku</string>
+    <string name="book_detail">Detail Buku</string>
+    <string name="search_books">Cari buku berdasarkan judul atau penulis</string>
+    <string name="filter_books">Filter Buku</string>
+    <string name="no_books">Belum ada buku</string>
+    <string name="add_first_book">Tambahkan buku pertama Anda</string>
+    <string name="title">Judul Buku</string>
+    <string name="author">Penulis</string>
+    <string name="year">Tahun Terbit</string>
+    <string name="category">Kategori</string>
+    <string name="status">Status</string>
+    <string name="description">Deskripsi (Opsional)</string>
+    <string name="available">Tersedia</string>
+    <string name="borrowed">Dipinjam</string>
+    <string name="save">Simpan</string>
+    <string name="update">Update</string>
+    <string name="cancel">Batal</string>
+    <string name="back">Kembali</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Hapus</string>
+    <string name="title_required">Judul buku harus diisi</string>
+    <string name="author_required">Penulis harus diisi</string>
+    <string name="year_required">Tahun terbit harus berupa angka</string>
+    <string name="category_required">Kategori harus diisi</string>
+</resources>
